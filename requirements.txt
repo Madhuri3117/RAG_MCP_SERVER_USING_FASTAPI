@@ -1,0 +1,13 @@
+fastapi[standard]
+uvicorn
+pydantic
+pymongo
+sentence-transformers
+huggingface-hub
+python-dotenv
+requests
+crewai
+crewai-tool
+torch
+transformers
+langchain
